@@ -1,6 +1,6 @@
 {
   "name": "github-actions-demo",
-  "homepage": "https://TaoJianping.github.io/github-actions-demo",
+  "homepage": "https://taojianping.github.io/github-actions-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
